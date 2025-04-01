@@ -8,9 +8,9 @@ jupyter:
       extension: .qmd
       format_name: quarto
       format_version: '1.0'
-      jupytext_version: 1.15.2
+      jupytext_version: 1.16.4
   kernelspec:
-    display_name: Anaconda 3 (EDS220)
+    display_name: Python (eds220-env)
     language: python
     name: eds220-env
 ---
