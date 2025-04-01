@@ -3,7 +3,7 @@ This repository houses the weekly section solutions and qmd files for the course
 
 
 |Week| | Objective|
------  -----------
+|----| |----------|
 |1   | | Creating Widgets for Multiple Linear Regression |
 |2   | | Utilizing synthesized data to better understand ridge and lasso regression |
 |3   | | Better understanding the effect of class imbalances |
