@@ -1,5 +1,5 @@
-# EDS232-sections
-This repository houses the weekly section solutions and qmd files for the course website for EDS 232. 
+# EDS232 Weekly Sections
+This repository houses the weekly section solutions and qmd files for the course website for EDS 232. The schedule is as follows: 
 
 
 |Week | Objective|
